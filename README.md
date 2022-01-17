@@ -1,4 +1,4 @@
-# 🔰 整理 Linux 内核的新功能特性，io_uring, cgroup, ebpf, llvm, kvm, ceph, fuse的开源项目，代码案例，文章，视频，架构脑图
+# 🔰 深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm, kvm, ceph, fuse 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 
 ## 🔥 [io_uring](https://en.wikipedia.org/wiki/Io_uring) 
 
