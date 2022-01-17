@@ -10,9 +10,9 @@
 </div>
 
 ### 文档
-- 官方文档:[io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring.pdf)
+- 官方文档: [io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring.pdf)
 ### 开源项目 
-- [axboe/liburing](https://github.com/axboe/liburing):这是 io_uring 库，liburing。liburing 为设置和拆掉 io_uring 实例，还有一个简化的接口不需要（或不想）处理完整内核的应用程序边执行。
+- [axboe/liburing](https://github.com/axboe/liburing): 这是 io_uring 库，liburing。liburing 为设置和拆掉 io_uring 实例，还有一个简化的接口不需要（或不想）处理完整内核的应用程序边执行。
 
 ## cgroup
 
