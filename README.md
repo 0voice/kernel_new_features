@@ -2,7 +2,7 @@
 
 ## io_uring
 
-### io_uring 是 2019 年 Linux 5.1 内核首次引入的高性能 异步 I/O 框架，能显著加速 I/O 密集型应用的性能。
+### [io_uring](https://en.wikipedia.org/wiki/Io_uring) 是 2019 年 Linux 5.1 内核首次引入的高性能 异步 I/O 框架，能显著加速 I/O 密集型应用的性能。
 
 ## cgroup
 
