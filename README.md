@@ -27,6 +27,29 @@
 ### 开源项目 
 - [axboe/liburing](https://github.com/axboe/liburing): 这是 io_uring 库，liburing。liburing 为设置和拆掉 io_uring 实例，还有一个简化的接口不需要（或不想）处理完整内核的应用程序边执行。
 - [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example): 一个io_uring 示例的库
+- [bytedance/monoio](https://github.com/bytedance/monoio): 基于io-uring的Rust异步运行时
+- [spacejam/rio](https://github.com/spacejam/rio): Rust io_uring库，构建在libc上，线程和异步友好，抗误用
+- [Iceber/iouring-go](https://github.com/Iceber/iouring-go): 提供易于使用的异步IO接口io_uring
+- [frevib/io_uring-echo-server](https://github.com/frevib/io_uring-echo-server): io_uring echo server
+- [hodgesds/iouring-go](https://github.com/hodgesds/iouring-go): Io_uring支持go
+- [dshulyak/uring](https://github.com/dshulyak/uring): 用于io_uring框架的Golang库(无CGO)
+- [quininer/ritsu](https://github.com/quininer/ritsu): 一个实验性的基于io-uring的异步运行时。
+- [shuveb/loti-examples](https://github.com/shuveb/loti-examples): 源代码示例程序，从主的io_uring指南
+- [xuanyi-fu/xynet](https://github.com/xuanyi-fu/xynet): 基于io_uring和c++ 20协程的网络库
+- [KuiBaDB/kbio](https://github.com/KuiBaDB/kbio): 一个基于io_uring的异步IO框架
+- [shuveb/loti](https://github.com/shuveb/loti): io_uring教程，例子和参考
+- [MarkReedZ/mrloop](https://github.com/MarkReedZ/mrloop): C语言使用io_uring的事件循环
+- [tchaloupka/during](https://github.com/tchaloupka/during): dlang io_uring包装
+- [omegacoleman/arkio](https://github.com/omegacoleman/arkio): 基于异步IO的内核IO库
+- [ciconia/awesome-io_uring](https://github.com/ciconia/awesome-io_uring): 一个很棒的io_uring资源、库和工具的分类集合。
+- [ddeka0/AsyncIO](https://github.com/ddeka0/AsyncIO): 一个用于异步套接字服务器的CPP包装器，使用linux最新的io_uring API
+- [uroni/fuseuring](https://github.com/uroni/fuseuring): 使用io_uring实现一个用户空间Linux fuse服务器
+- [yunwei37/co-uring-WebServer](https://github.com/yunwei37/co-uring-WebServer): 一个使用io_uring和cpp20协同程序的c++高性能Web服务器
+- [romange/helio](https://github.com/romange/helio): 一个基于io_uring Linux接口的现代后端开发框架
+- [3541/short-circuit](https://github.com/3541/short-circuit): Linux高性能web服务器，基于io_uring构建。
+- [anolis-os-archive/perf-test-for-io_uring](https://github.com/anolis-os-archive/perf-test-for-io_uring): 一个用于io_uring性能测试的框架。
+- [BlazeWasHere/Cnidus](https://github.com/BlazeWasHere/Cnidus): 基于io_uring的C语言web框架。
+- [AnSpake/osiris](https://github.com/AnSpake/osiris): 一个简单的服务器/客户端，使用 io_uring 来玩它
 
 ### 文章
 
