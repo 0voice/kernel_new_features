@@ -71,7 +71,7 @@
 - [Submission Queue Polling](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/Submission%20Queue%20Polling.md)
 - [Efficient IO with io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/Efficient%20IO%20with%20io_uring.md)
 
-### 视频(验证码：1024)
+### 视频(提取码：1024)
 
 - [Speeding Up VM’s I_O Sharing Host's io_uring Queues With Guests by Stefano Garzarella【2020】](https://pan.baidu.com/s/1eQC_OQhfBnkd8t6NbBnseQ)
 - [Asynchronous I_O and coroutines for smooth data streaming - Björn Fahller - NDC TechTown 2021](https://pan.baidu.com/s/1l5ZEOIwRKwWbnhZPnsj4hQ)
