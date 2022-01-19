@@ -85,7 +85,15 @@
 - [USENIX ATC '19 - Asynchronous I_O Stack_ A Low-latency Kernel I_O Stack for Ultra-Low Latency SSDs](https://pan.baidu.com/s/1sWdfkSU9yjoY53A4wvkcfQ)
 - [来自阿里云的 Linux 内核 io_uring 介绍与实践](https://pan.baidu.com/s/1FykA5evNh3O3JK4Cu9fs0Q)
 
-## 🔥 cgroup
+## 🔥 [cgroup](https://zh.wikipedia.org/wiki/Cgroups)
+
+<div  align=center>
+  
+<img width="60%" height="60%" src="https://user-images.githubusercontent.com/87457873/150078568-4f0de590-793f-41b9-9038-cc8b44894cfb.png"/>
+  
+#### —— 限制、控制与分离一个进程组的资源（如CPU、内存、磁盘输入输出等）。
+
+</div>
 
 ## 🔥 ebpf
 
