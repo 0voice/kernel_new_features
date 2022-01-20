@@ -160,6 +160,17 @@
 
 ### 视频(提取码：1024)
 
+- [Containers_ cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods]()
+- [Understanding and Working with the Cgroups Interface - Michael Anderson, The PTR Group, LLC]()
+- [Linux Container Primitives- cgroups, namespaces, and more!]()
+- [Cgroups, namespaces, and beyond]()
+- [Kubernetes On Cgroup v2 - Giuseppe Scrivano, Red Hat]()
+- [Cgroup Slab Memory Controller and Time Namespace - DevConf.CZ 2021]()
+- [Modern Linux Servers with cgroups - Brandon Philips, CoreOS]()
+- [LISA21 - 5 Years of Cgroup v2- The Future of Linux Resource Control]()
+- [Limit CPU usage on Ubuntu with Systemd cgroups]()
+- [What's new in control groups (cgroups) version 2]()
+
 ## 🔥 ebpf
 
 ## 🔥 llvm
