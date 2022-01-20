@@ -25,7 +25,7 @@
   - [io_uring-徐浩-阿里云](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E6%A1%A3/io_uring-%E5%BE%90%E6%B5%A9-%E9%98%BF%E9%87%8C%E4%BA%91.pdf)
 
 ### 开源项目 
-- [axboe/liburing](https://github.com/axboe/liburing): 这是 io_uring 库，liburing。liburing 为设置和拆掉 io_uring 实例，还有一个简化的接口不需要（或不想）处理完整内核的应用程序边执行。
+- [axboe/liburing](https://github.com/axboe/liburing): io_uring 库，liburing 为设置和拆掉 io_uring 实例，还有一个简化的接口不需要（或不想）处理完整内核的应用程序边执行。
 - [shuveb/io_uring-by-example](https://github.com/shuveb/io_uring-by-example): 一个io_uring 示例的库
 - [bytedance/monoio](https://github.com/bytedance/monoio): 基于io-uring的Rust异步运行时
 - [spacejam/rio](https://github.com/spacejam/rio): Rust io_uring库，构建在libc上，线程和异步友好，抗误用
