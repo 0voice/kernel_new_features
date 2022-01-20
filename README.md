@@ -124,6 +124,18 @@
 
 
 ### 开源项目 
+- [containerd/cgroups](https://github.com/containerd/cgroups): 用于创建、管理、检查和销毁cgroup。cgroup上设置的资源格式使用这里找到的OCI运行时规范。
+- [mhausenblas/cinf](https://github.com/mhausenblas/cinf): 一个查看命名空间和cgroups的命令行工具
+- [flouthoc/vas-quod](https://github.com/flouthoc/vas-quod): 用Rust编写的一个极小的容器运行时
+- [poelzi/ulatencyd](https://github.com/poelzi/ulatencyd): 使用cgroups最小化linux系统延迟的守护进程
+- [haosdent/jcgroup](https://github.com/haosdent/jcgroup): jcgroup是JVM上的cgroup包装器。您可以使用这个库来限制线程的CPU共享、磁盘I/O速度、网络带宽等。
+- [kinvolk/traceloop](https://github.com/kinvolk/traceloop): 使用BPF和可重写的环形缓冲区跟踪cgroup中的系统调用
+- [tianon/cgroupfs-mount](https://github.com/tianon/cgroupfs-mount): 挂载cgroupfs (v1)层次结构的简单(过时)脚本，特别是用于Debian打包的结构化脚本
+- [francisbouvier/cgroups](https://github.com/francisbouvier/cgroups): 一个库来管理cgroups Linux内核特性
+- [bpowers/mstat](https://github.com/bpowers/mstat): 这个工具运行在Linux上，利用cgroups内核API(也被Docker等容器基础设施使用)来记录一组进程随时间的内存使用情况。
+
+
+
 
 ### 文章
 
