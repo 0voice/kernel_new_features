@@ -111,6 +111,16 @@
   - [CgroupMemcgMaster](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/CgroupMemcgMaster.pdf)
   - [Resource Management](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/Resource%20Management.pdf)
   - [Challenges with the memory resource controller and its performance](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/%20Challenges%20with%20the%20memory%20resource%20controller%20and%20its%20performance.pdf)
+  - [Ressource Management in Linux with Control Groups](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/Ressource%20Management%20in%20Linux%20with%20Control%20Groups.pdf)
+  - [System Programming for Linux Containers Control Groups (cgroups)](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/System%20Programming%20for%20Linux%20Containers%20Control%20Groups%20(cgroups).pdf)
+  - [Managing Resources with cgroups](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/Managing%20Resources%20with%20cgroups.pdf)
+  - [5 years of cgroup v2](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/5%20years%20of%20cgroup%20v2.pdf)
+  - [Linux’s new unified control group system](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/%20Linux%E2%80%99s%20new%20unified%20control%20group%20system.pdf)
+  - [cgroups_intro](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/cgroups_intro.pdf)
+  - [red_hat_enterprise_linux-6-resource_management_guide-en-us](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/red_hat_enterprise_linux-6-resource_management_guide-en-us.pdf)
+  - [An introduction to Control Groups (cgroups)](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/An%20introduction%20to%20Control%20Groups%20(cgroups).pdf)
+  - [Using Linux Control Groups and Systemd to Manage CPU Time and Memory](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/%20Using%20Linux%20Control%20Groups%20and%20Systemd%20to%20Manage%20CPU%20Time%20and%20Memory.pdf)
+  - [An introduction to cgroups and cgroupspy](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E6%A1%A3/An%20introduction%20to%20cgroups%20and%20cgroupspy.pdf)
 
 ## 🔥 ebpf
 
