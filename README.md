@@ -95,6 +95,19 @@
 
 </div>
 
+### 文档
+- 官方文档:
+  - [Control Groups definition, implementation details, examples and API](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/cgroups.txt)
+  - [CPU Accounting Controller; account CPU usage for groups of tasks](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/cpuacct.txt)
+  - [documents the cpusets feature; assign CPUs and Mem to a set of tasks](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/cpusets.txt)
+  - [Device Whitelist Controller; description, interface and security](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/devices.txt)
+  - [checkpointing; rationale to not use signals, interface](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/freezer-subsystem.txt)
+  - [Memory Resource Controller; implementation details](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/memcg_test.txt)
+  - [Memory Resource Controller; design, accounting, interface, testing](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/memory.txt)
+  - [Resource Counter API](https://web.archive.org/web/20120618145303/http://www.kernel.org/doc/Documentation/cgroups/resource_counter.txt)
+
+- 其他文档：
+
 ## 🔥 ebpf
 
 ## 🔥 llvm
