@@ -49,7 +49,7 @@
 - [3541/short-circuit](https://github.com/3541/short-circuit): Linux高性能web服务器，基于io_uring构建。
 - [anolis-os-archive/perf-test-for-io_uring](https://github.com/anolis-os-archive/perf-test-for-io_uring): 一个用于io_uring性能测试的框架。
 - [BlazeWasHere/Cnidus](https://github.com/BlazeWasHere/Cnidus): 基于io_uring的C语言web框架。
-- [AnSpake/osiris](https://github.com/AnSpake/osiris): 一个简单的服务器/客户端，使用 io_uring 来玩它
+- [AnSpake/osiris](https://github.com/AnSpake/osiris): 一个简单的服务器/客户端，使用io_uring
 
 ### 文章
 
