@@ -184,6 +184,7 @@
 - 官方文档: 
   - Linux 内核：https://www.kernel.org/doc/Documentation/networking/filter.txt
   - 开发QA：https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
+  - eBPF-Helpers：https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst/
 - 其他文档：
 
 ### 开源项目 
