@@ -139,6 +139,25 @@
 
 ### 文章
 
+- [Linux cgroups 概述](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/linux%20cgroups%20%E6%A6%82%E8%BF%B0.md)
+- [【译】Control Group v2（cgroupv2 权威指南）（KernelDoc, 2021）](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%5B%E8%AF%91%5D%20Control%20Group%20v2%EF%BC%88cgroupv2%20%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%89%EF%BC%88KernelDoc%2C%202021%EF%BC%89.md)
+- [How I Used CGroups to Manage System Resources](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/How%20I%20Used%20CGroups%20to%20Manage%20System%20Resources.md)
+- [Cgroups控制cpu，内存，io示例](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Cgroups%E6%8E%A7%E5%88%B6cpu%EF%BC%8C%E5%86%85%E5%AD%98%EF%BC%8Cio%E7%A4%BA%E4%BE%8B.md)
+- [Linux Control Groups V1 和 V2 原理和区别](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Linux%20Control%20Groups%20V1%20%E5%92%8C%20V2%20%E5%8E%9F%E7%90%86%E5%92%8C%E5%8C%BA%E5%88%AB.md)
+- [Linux资源管理之cgroups简介](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Linux%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E4%B9%8Bcgroups%E7%AE%80%E4%BB%8B.md)
+- [彻底搞懂容器技术的基石： cgroup](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E7%9A%84%E5%9F%BA%E7%9F%B3%EF%BC%9A%20cgroup.md)
+- [深入理解 Linux Cgroup 系列（一）：基本概念](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Linux%20Cgroup%20%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+- [深入理解 Linux Cgroup 系列（二）：玩转 CPU](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Linux%20Cgroup%20%E7%B3%BB%E5%88%97%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E7%8E%A9%E8%BD%AC%20CPU.md)
+- [深入理解 Linux Cgroup 系列（三）：内存](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Linux%20Cgroup%20%E7%B3%BB%E5%88%97%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E5%86%85%E5%AD%98.md)
+- [Cgroup - 从CPU资源隔离说起](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Cgroup%20-%20%E4%BB%8ECPU%E8%B5%84%E6%BA%90%E9%9A%94%E7%A6%BB%E8%AF%B4%E8%B5%B7.md)
+- [Cgroup - Linux内存资源管理](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Cgroup%20-%20Linux%E5%86%85%E5%AD%98%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.md)
+- [Cgroup - Linux的IO资源隔离](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Cgroup%20-%20Linux%E7%9A%84IO%E8%B5%84%E6%BA%90%E9%9A%94%E7%A6%BB.md)
+- [Cgroup - Linux的网络资源隔离](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/Cgroup%20-%20Linux%E7%9A%84%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90%E9%9A%94%E7%A6%BB.md)
+- [用 cgroups 管理 cpu 资源](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E7%94%A8%20cgroups%20%E7%AE%A1%E7%90%86%20cpu%20%E8%B5%84%E6%BA%90.md)
+- [用 cgruops 管理进程内存占用](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/%E7%94%A8%20cgruops%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E5%86%85%E5%AD%98%E5%8D%A0%E7%94%A8.md)
+- [用 cgroups 管理进程磁盘 io](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/cgroups%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%A3%81%E7%9B%98%20io.md)
+
+
 ### 视频(提取码：1024)
 
 ## 🔥 ebpf
