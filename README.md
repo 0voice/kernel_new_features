@@ -182,7 +182,8 @@
 
 ### 文档
 - 官方文档: 
-  - Linux 内核：https://www.kernel.org/doc/Documentation/networking/filter.txt
+  - Linux 内核：https://www.kernel.org/doc/Documentation/networking/filter.txt and https://www.kernel.org/doc/html/latest/bpf/#
+  
   - 开发QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
   - eBPF-Helpers：https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst/
 - 其他文档：
@@ -208,6 +209,23 @@
 ### 开源项目 
 
 - [cilium/cilium](https://github.com/cilium/cilium): 用于提供、保护和观察容器工作负载之间的网络连接——云原生，并由革命性的内核技术eBPF提供支持,https://cilium.io/
+- [BPF Compiler Collection (BCC)](https://github.com/iovisor/bcc): BCC -基于bpf的Linux IO分析、联网、监控等工具
+- [bpftrace](https://github.com/iovisor/bpftrace): Linux eBPF的高级跟踪语言
+- [Falco](https://github.com/falcosecurity/falco): 一种行为活动监视器，旨在检测应用程序中的异常活动。Falco在ebp的帮助下在Linux内核层对系统进行审计。它通过其他输入流(如容器运行时度量和Kubernetes度量)丰富了收集到的数据，并允许持续监视和检测容器、应用程序、主机和网络活动。
+- [Katran](https://github.com/facebookincubator/katran): 高性能的四层负载均衡器
+- [LLVM Compiler](https://github.com/llvm/llvm-project/): 一个模块化和可重用的编译器和工具链技术的集合。
+- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows): 运行在Windows上的eBPF实现
+- [aquasecurity/libbpfgo](https://github.com/aquasecurity/libbpfgo): 一个用于Linux ebbpf项目的Go库。
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee): Linux的运行时安全和取证工具。
+- [libbpf/libbpf](https://github.com/libbpf/libbpf): libbpf是一个基于C/ c++的库，作为上游Linux内核的一部分进行维护。它包含一个eBPF加载器，它接管处理LLVM生成的eBPF ELF文件，以便将其加载到内核中。
+- [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs): Rust生态系统的最小和固执的epf工具
+- [foniod/redbpf](https://github.com/foniod/redbpf): Rust库用于构建和运行BPF/eBPF模块
+- [aya-rs/aya](https://github.com/aya-rs/aya): 一个用于Rust编程语言的eBPF库，其构建的重点是开发人员的体验和可操作性。
+- [cilium/hubble](https://github.com/cilium/hubble): 使用eBPF的Kubernetes网络、服务和安全可观测性
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor): 一个云本地运行时安全强制系统，它在系统级别限制容器和节点的行为(如进程执行、文件访问和网络操作)。
+- [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace): 使用kubectl在kubernetes集群上调度bpftrace程序
+- [iovisor/ply](https://github.com/iovisor/ply): 一款基于eBPF的Linux动态跟踪软件。
+
 
 ### 文章
 
