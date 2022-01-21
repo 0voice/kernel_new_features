@@ -183,10 +183,11 @@
 ### 文档
 - 官方文档: 
   - Linux 内核：https://www.kernel.org/doc/Documentation/networking/filter.txt and https://www.kernel.org/doc/html/latest/bpf/#
-  
   - 开发QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
   - eBPF-Helpers：https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst/
 - 其他文档：
+
+  - [iovisor/bpf-docs](https://github.com/iovisor/bpf-docs): 列出了 eBPF opcode，项目是 iovisor 总结的系列文档、pre。
   - [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
   - [BPF to eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/BPF%20to%20eBPF.pdf)
   - [Calico-eBPF-Dataplane-CNCF-Webinar-Slides](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Calico-eBPF-Dataplane-CNCF-Webinar-Slides.pdf)
