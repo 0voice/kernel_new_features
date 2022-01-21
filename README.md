@@ -230,6 +230,21 @@
 
 ### 文章
 
+- [什么是 eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/%E4%BB%80%E4%B9%88%E6%98%AF%20eBPF.md)
+- [eBPF详解](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%E8%AF%A6%E8%A7%A3.md)
+- [BPF 和 eBPF 初探](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/BPF%20%E5%92%8C%20eBPF%20%E5%88%9D%E6%8E%A2.md)
+- [Linux 内核监测技术 eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/Linux%20%E5%86%85%E6%A0%B8%E7%9B%91%E6%B5%8B%E6%8A%80%E6%9C%AF%20eBPF.md)
+- [eBPF 如何简化服务网格](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E5%A6%82%E4%BD%95%E7%AE%80%E5%8C%96%E6%9C%8D%E5%8A%A1%E7%BD%91%E6%A0%BC.md)
+- [eBPF 用户空间虚拟机实现相关](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%9E%E7%8E%B0%E7%9B%B8%E5%85%B3.md)
+- [基于 eBPF 实现容器运行时安全](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/%E5%9F%BA%E4%BA%8E%20eBPF%20%E5%AE%9E%E7%8E%B0%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E6%97%B6%E5%AE%89%E5%85%A8.md)
+- [深入理解 Cilium 的 eBPF 收发包路径](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20Cilium%20%E7%9A%84%20eBPF%20%E6%94%B6%E5%8F%91%E5%8C%85%E8%B7%AF%E5%BE%84.md)
+- [eBPF 概述，第 1 部分：介绍](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E6%A6%82%E8%BF%B0%EF%BC%8C%E7%AC%AC%201%20%E9%83%A8%E5%88%86%EF%BC%9A%E4%BB%8B%E7%BB%8D.md)
+- [eBPF 概述，第 2 部分：机器和字节码](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E6%A6%82%E8%BF%B0%EF%BC%8C%E7%AC%AC%202%20%E9%83%A8%E5%88%86%EF%BC%9A%E6%9C%BA%E5%99%A8%E5%92%8C%E5%AD%97%E8%8A%82%E7%A0%81.md)
+- [eBPF 概述，第 3 部分：软件开发生态](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E6%A6%82%E8%BF%B0%EF%BC%8C%E7%AC%AC%203%20%E9%83%A8%E5%88%86%EF%BC%9A%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%94%9F%E6%80%81.md)
+- [eBPF 概述，第 4 部分：在嵌入式系统运行](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E6%A6%82%E8%BF%B0%EF%BC%8C%E7%AC%AC%204%20%E9%83%A8%E5%88%86%EF%BC%9A%E5%9C%A8%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C.md)
+- [eBPF 概述，第 5 部分：跟踪用户进程](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/eBPF%20%E6%A6%82%E8%BF%B0%EF%BC%8C%E7%AC%AC%205%20%E9%83%A8%E5%88%86%EF%BC%9A%E8%B7%9F%E8%B8%AA%E7%94%A8%E6%88%B7%E8%BF%9B%E7%A8%8B.md)
+- [【译】大规模微服务利器：eBPF + KubernetesKubeCon, 2020](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E7%AB%A0/%E3%80%90%E8%AF%91%5D%E3%80%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%88%A9%E5%99%A8%EF%BC%9AeBPF%20%2B%20Kubernetes%EF%BC%88KubeCon%2C%202020%EF%BC%89.md)
+
 ### 视频(提取码：1024)
 
 ## 🔥 llvm
