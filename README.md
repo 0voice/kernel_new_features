@@ -186,6 +186,24 @@
   - 开发QA：https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
   - eBPF-Helpers：https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst/
 - 其他文档：
+  - [Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Advanced_BPF_Kernel_Features_for_the_Container_Age_FOSDEM.pdf)
+  - [BPF to eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/BPF%20to%20eBPF.pdf)
+  - [Calico-eBPF-Dataplane-CNCF-Webinar-Slides](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Calico-eBPF-Dataplane-CNCF-Webinar-Slides.pdf)
+  - [Combining System Visibility and Security Using eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Combining%20System%20Visibility%20and%20Security%20Using%20eBPF.pdf)
+  - [DPDK+eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/DPDK%2BeBPF.pdf)
+  - [Experience and Lessons Learned](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Experience%20and%20Lessons%20Learned.pdf)
+  - [Fast Packet Processing using eBPF and XDP](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Fast%20Packet%20Processing%20using%20eBPF%20and%20XDP.pdf)
+  - [Kernel Tracing With eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Kernel%20Tracing%20With%20eBPF.pdf)
+  - [Kernel analysis using eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Kernel%20analysis%20using%20eBPF.pdf)
+  - [Making the Linux TCP stack more extensible with eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Making%20the%20Linux%20TCP%20stack%20more%20extensible%20with%20eBPF.pdf)
+  - [Performance Analysis Superpowers with Linux eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Performance%20Analysis%20Superpowers%20with%20Linux%20eBPF.pdf)
+  - [Performance Implications of Packet Filtering with Linux eBPF](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/Performance%20Implications%20of%20Packet%20Filtering%20with%20Linux%20eBPF.pdf)
+  - [The Next Linux Superpower eBPF Primer](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/The%20Next%20Linux%20Superpower%20eBPF%20Primer.pdf)
+  - [eBPF - From a Programmer’s Perspective](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/eBPF%20-%20From%20a%20Programmer%E2%80%99s%20Perspective.pdf)
+  - [eBPF In-kernel Virtual Machine & Cloud Computin](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/eBPF%20In-kernel%20Virtual%20Machine%20%26%20Cloud%20Computin.pdf)
+  - [eBPF for perfomance analysis and networking](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/eBPF%20for%20perfomance%20analysis%20and%20networking.pdf)
+  - [eBPF in CPU Scheduler](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/eBPF%20in%20CPU%20Scheduler.pdf)
+  - [eBPF-based Content and Computation-aware Communication for Real-time Edge Computing](https://github.com/0voice/kernel_new_features/blob/main/ebpf/%E6%96%87%E6%A1%A3/eBPF-based%20Content%20and%20Computation-aware%20Communication%20for%20Real-time%20Edge%20Computing.pdf)
 
 ### 开源项目 
 
