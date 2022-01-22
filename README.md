@@ -262,7 +262,79 @@
   - [Introduction to the LLVM Compiler System](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E6%A1%A3/Introduction%20to%20the%20LLVM%20Compiler%20System.pdf)
   - [LLVM语言参考手册](https://web.archive.org/web/20120611064155/http://llvm.org/docs/LangRef.html)
   - [LLVM语言参考手册-中文版](https://llvm.liuxfe.com/docs/langref/)
-- 其他文档：
+- 用户指南：
+  - [使用CMake构建LLVM](https://llvm.org/docs/CMake.html): 使用CMake构建系统的主要入门指南的附录。
+  - [在ARM平台上构建LLVM指南](https://llvm.org/docs/HowToBuildOnARM.html): 关于在ARM上构建和测试LLVM/Clang的注意事项。
+  - [如何使用配置文件引导优化构建Clang和LLVM](https://llvm.org/docs/HowToBuildWithPGO.html): 使用PGO构建LLVM/Clang的注意事项。
+  - [如何为ARM平台交叉编译compiler-rt Builtins](https://llvm.org/docs/HowToCrossCompileBuiltinsOnArm.html): 关于交叉构建和测试ARM的编译器-rt内置函数的注意事项。
+  - [如何使用Clang/LLVM交叉编译Clang/LLVM](https://llvm.org/docs/HowToCrossCompileLLVM.html)：关于交叉构建和测试LLVM / Clang的注意事项。
+  - [使用Microsoft Visual Studio开始使用LLVM系统](https://llvm.org/docs/GettingStartedVS.html)：Windows上使用Visual Studio的主要入门指南的附录。
+  - [LLVM的分析和转换Passes](https://llvm.org/docs/Passes.html):LLVM中实现的优化和分析列表
+  - [当前版本的发布说明](https://llvm.org/docs/ReleaseNotes.html):这描述了新功能，已知错误和其他限制。
+  - [如何提交LLVM错误报告](https://llvm.org/docs/HowToSubmitABug.html): 有关正确提交有关您在LLVM系统中遇到的任何错误的信息的说明。
+  - [sphinx模板快速入门](https://llvm.org/docs/SphinxQuickstartTemplate.html)：使用LLVM测试基础结构的参考手册。
+  - [LLVM测试套件基础结构指南](https://llvm.org/docs/TestingGuide.html)：使用LLVM测试基础结构的参考手册。
+  - [LLVM测试套件使用指南](https://llvm.org/docs/TestSuiteGuide.html)：描述如何编译和运行测试套件基准测试。
+  - [如何构建C，C ++，ObjC和ObjC ++前端](https://clang.llvm.org/get_started.html)：从源代码构建clang前端的说明。
+  - [LLVM词典](https://llvm.org/docs/Lexicon.html)：LLVM中使用的首字母缩略词，术语和概念的定义。
+  - [如何将构建配置添加到LLVM Buildbot基础结构](https://llvm.org/docs/HowToAddABuilder.html):有关将新构建器添加到LLVM buildbot master的说明。
+  - [YAML I/O](https://llvm.org/docs/YamlIO.html)：使用LLVM的YAML I/O库的参考指南。
+  - [前端作者的性能提示](https://llvm.org/docs/Frontend/PerformanceTips.html)：前端作者关于如何生成IR的技巧的集合，LLVM能够有效地优化。
+  - [Dockerfiles用于构建LLVM的指南](https://llvm.org/docs/Docker.html)：使用随LLVM提供的Dockerfiles的参考。
+- 编程文档：
+  - [LLVM扩展](https://llvm.org/docs/Extensions.html)：LLVM特定的工具和格式扩展LLVM寻求兼容性。
+  - [CommandLine 2.0库手册](https://llvm.org/docs/CommandLine.html)：提供有关使用命令行解析库的信息。
+  - [LLVM编码标准](https://llvm.org/docs/CodingStandards.html)：详细介绍了LLVM编码标准，并提供了有关编写高效C ++代码的有用信息。
+  - [如何为类层次结构设置LLVM样式的RTTI](https://llvm.org/docs/HowToSetUpLLVMStyleRTTI.html)：如何让`isa<>`，`dyn_cast<>`等可供您的类层次的客户。
+  - [扩展LLVM：添加指令，内在函数，类型等](https://llvm.org/docs/ExtendingLLVM.html)：在这里查看如何向LLVM添加指令和内在函数。
+  - [libFuzzer - 用于覆盖引导的模糊测试的库](https://llvm.org/docs/LibFuzzer.html)：用于编写进程中引导模糊器的库
+  - [模糊LLVM库和工具](https://llvm.org/docs/FuzzingLLVM.html)：有关编写和使用Fuzzers查找LLVM中的错误的信息.
+  - [Scudo硬化分配器](https://llvm.org/docs/ScudoHardenedAllocator.html)：一个实现安全加固的malloc（）的库。
+- 子系统文档
+  - [编写LLVM Passes](https://llvm.org/docs/WritingAnLLVMPass.html)：有关如何编写LLVM转换和分析的信息
+  - [编写LLVM后端](https://llvm.org/docs/WritingAnLLVMBackend.html)：有关如何为机器目标编写LLVM后端的信息
+  - [LLVM与目标无关的代码生成器](https://llvm.org/docs/CodeGenerator.html)：LLVM代码生成器的设计和实现。如果您正在将LLVM重新定位到新架构，设计新的codegen传递或增强现有组件，则非常有用。
+  - [机器IR（MIR）格式参考手册](https://llvm.org/docs/MIRLangRef.html)：MIR序列化格式的参考手册，用于测试LLVM的代码生成过程。
+  - [TableGen](https://llvm.org/docs/TableGen/index.html)：描述了TableGen工具，LLVM代码生成器大量使用它。
+  - [LLVM别名分析基础结构](https://llvm.org/docs/AliasAnalysis.html)：有关如何编写新别名分析实现或如何使用现有分析的信息。
+  - [MemorySSA](https://llvm.org/docs/MemorySSA.html)：有关LLVM中的MemorySSA实用程序的信息，以及如何使用它。
+  - [使用LLVM进行垃圾收集](https://llvm.org/docs/GarbageCollection.html)：接口源语言编译器应该用于编译GC程序。
+  - [使用LLVM进行源级别调试](https://llvm.org/docs/SourceLevelDebugging.html)：本文档描述了LLVM源代码级调试器背后的设计和理念。
+  - [LLVM中的自动矢量化](https://llvm.org/docs/Vectorizers.html)：本文档描述了LLVM中矢量化的当前状态
+  - [LLVM中的异常处理](https://llvm.org/docs/ExceptionHandling.html)：本文档描述了LLVM中异常处理的设计和实现
+  - [如何添加一个受约束的浮点内在函数](https://llvm.org/docs/AddingConstrainedIntrinsics.html)：在LLVM中添加新的约束数学内在时，提供必要的步骤。
+  - [LLVM bugpoint工具：设计和使用](https://llvm.org/docs/Bugpoint.html)：自动错误查找器和测试用例减少器描述和使用信息
+  - [LLVM Bitcode文件格式](https://llvm.org/docs/BitCodeFormat.html)：这描述了用于LLVM“bc”文件的文件格式和编码。
+  - [支持库](https://llvm.org/docs/SupportLibrary.html)：本文档描述了LLVM支持库（lib/Support）以及如何使LLVM源代码可移植
+  - [LLVM链接时间优化：设计和实现](https://llvm.org/docs/LinkTimeOptimization.html)：本文档描述了LLVM模块间优化器与链接器及其设计之间的接口
+  - [LLVM黄金插件](https://llvm.org/docs/GoldPlugin.html)：如何在Linux上使用链接时优化来构建程序。
+  - [使用GDB调试JIT-ed代码](https://llvm.org/docs/DebuggingJITedCode.html):如何使用GDB调试JITed代码。
+  - [MCJIT设计与实施](https://llvm.org/docs/MCJITDesignAndImplementation.html)：描述了MCJIT执行引擎的内部工作原理
+  - [LLVM分支权重元数据](https://llvm.org/docs/BranchWeightMetadata.html)：提供有关分支预测信息的信息。
+  - [LLVM块频率术语](https://llvm.org/docs/BlockFrequencyTerminology.html):提供有关BlockFrequencyInfo 分析过程中使用的术语的信息
+  - [LLVM中的分段堆栈](https://llvm.org/docs/SegmentedStacks.html):本文档描述了分段堆栈以及它们在LLVM中的使用方式
+  - [LLVM的可选丰富的反汇编输出](https://llvm.org/docs/MarkedUpDisassembly.html):本文档介绍了可选的丰富反汇编输出语法
+  - [如何使用属性](https://llvm.org/docs/HowToUseAttributes.html)：回答有关新属性基础结构的一些问题。
+  - [NVPTX后端用户指南](https://llvm.org/docs/NVPTXUsage.html)：本文档描述了使用NVPTX后端编译GPU内核。
+  - [AMDGPU后端用户指南](https://llvm.org/docs/AMDGPUUsage.html):本文档描述了使用AMDGPU后端编译GPU内核。
+  - [LLVM中的堆栈映射和补丁点](https://llvm.org/docs/StackMaps.html):LLVM支持将指令地址映射到值的位置并允许修补代码。
+  - [在big endian模式下使用ARM NEON指令](https://llvm.org/docs/BigEndianNEON.html)：LLVM支持在大端ARM目标上生成NEON指令有点不直观。本文档解释了实施和理由。
+  - [LLVM代码覆盖映射格式](https://llvm.org/docs/CoverageMappingFormat.html):LLVM代码覆盖映射格式
+  - [LLVM中的垃圾收集安全点](https://llvm.org/docs/Statepoints.html)：这描述了一组垃圾收集支持的实验扩展。
+  - [MergeFunctions Pass，它是如何工作的](https://llvm.org/docs/MergeFunctions.html)：描述合并优化的函数。
+  - [InAlloca属性的设计和使用](https://llvm.org/docs/InAlloca.html)：inalloca参数属性的描述。
+  - [FaultMaps和隐式检查](https://llvm.org/docs/FaultMaps.html)：LLVM支持折叠控制流入错误机器指令。
+  - [用clang编译CUDA](https://llvm.org/docs/CompileCudaWithLLVM.html)：LLVM对CUDA的支持。
+  - [LLVM中的协同程序](https://llvm.org/docs/Coroutines.html):LLVM中的协同程序.
+  - [全局指令选择](https://llvm.org/docs/GlobalISel.html)：这描述了原型指令选择替换GlobalISel
+  - [XRay仪表](https://llvm.org/docs/XRay.html)：有关如何在LLVM中使用XRay的高级文档。
+  - [使用XRay进行调试](https://llvm.org/docs/XRayExample.html)：如何使用XRay调试应用程序的示例。
+  - [Microsoft PDB文件格式](https://llvm.org/docs/PDB/index.html)：Microsoft PDB（程序数据库）文件格式的详细说明。
+  - [控制流程验证工具设计文档](https://llvm.org/docs/CFIVerify.html)：控制流完整性验证工具的说明
+  - [投机负荷强化](https://llvm.org/docs/SpeculativeLoadHardening.html)：Spectre v1的推测负载强化缓解的描述
+  - [堆栈安全分析](https://llvm.org/docs/StackSafetyAnalysis.html)：本文档描述了局部变量的堆栈安全性分析的设计。
+
+
 
 ### LLVM命令指南
 
