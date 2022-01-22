@@ -258,6 +258,8 @@
 
 ### 文档
 - 官方文档:
+  - [LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation]()
+  - [LLVM语言参考手册](https://web.archive.org/web/20120611064155/http://llvm.org/docs/LangRef.html)
 - 其他文档：
 
 ### 开源项目 
