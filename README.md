@@ -259,6 +259,7 @@
 ### 文档
 - 官方文档:
   - [LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E6%A1%A3/%20A%20Compilation%20Framework%20for%20Lifelong%20Program%20Analysis%20%26%20Transformation.pdf)
+  - [Introduction to the LLVM Compiler System](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E6%A1%A3/Introduction%20to%20the%20LLVM%20Compiler%20System.pdf)
   - [LLVM语言参考手册](https://web.archive.org/web/20120611064155/http://llvm.org/docs/LangRef.html)
   - [LLVM语言参考手册-中文版](https://llvm.liuxfe.com/docs/langref/)
 - 其他文档：
