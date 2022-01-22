@@ -264,6 +264,70 @@
   - [LLVM语言参考手册-中文版](https://llvm.liuxfe.com/docs/langref/)
 - 其他文档：
 
+### LLVM命令指南
+
+#### 基本命令
+
+| 命令                                                         | 说明                              |
+| :----------------------------------------------------------- | :-------------------------------- |
+| [llvm-as](https://llvm.liuxfe.com/docs/man/llvm-as.html)     | LLVM汇编器                        |
+| [llvm-dis](https://llvm.liuxfe.com/docs/man/llvm-dis.html)   | LLVM反汇编器                      |
+| [opt](https://llvm.liuxfe.com/docs/man/opt.html)             | LLVM优化器                        |
+| [llc](https://llvm.liuxfe.com/docs/man/llc.html)             | LLVM静态编译器                    |
+| [lli](https://llvm.liuxfe.com/docs/man/lli.html)             | LLVM字节码解释器                  |
+| [llvm-link](https://llvm.liuxfe.com/docs/man/llvm-link.html) | LLVM字节码连接器                  |
+| [llvm-lib](https://llvm.liuxfe.com/docs/man/llvm-lib.html)   | LLVM的与lib.exe兼用的库工具       |
+| [llvm-lipo](https://llvm.liuxfe.com/docs/man/llvm-lipo.html) | 用于处理通用二进制文件的LLVM工具  |
+| [llvm-config](https://llvm.liuxfe.com/docs/man/llvm-config.html) | 打印LLVM编译选项                  |
+| [llvm-cxxmap](https://llvm.liuxfe.com/docs/man/llvm-cxxmap.html) | Mangled name重映射工具            |
+| [llvm-diff](https://llvm.liuxfe.com/docs/man/llvm-diff.html) | LLVM 结构”diff”                   |
+| [llvm-cov](https://llvm.liuxfe.com/docs/man/llvm-cov.html)   | 发出覆盖信息                      |
+| [llvm-profdata](https://llvm.liuxfe.com/docs/man/llvm-profdata.html) | 配置数据工具                      |
+| [llvm-stress](https://llvm.liuxfe.com/docs/man/llvm-stress.html) | 生成随机的.ll文件                 |
+| [llvm-symbolizer](https://llvm.liuxfe.com/docs/man/llvm-symbolizer.html) | 将地址转换为源代码中的位置        |
+| [llvm-dwarfdump](https://llvm.liuxfe.com/docs/man/llvm-dwarfdump.html) | 转储并检验DWARF调试信息           |
+| [dsymutil](https://llvm.liuxfe.com/docs/man/dsymutil.html)   | 操作存档文件中的DWARF调试符号文件 |
+| [llvm-mca](https://llvm.liuxfe.com/docs/man/llvm-mca.html)   | LLVM机器码分析器                  |
+| [llvm-readobj](https://llvm.liuxfe.com/docs/man/llvm-readobj.html) | LLVM目标文件分析器                |
+
+#### GNU bintils替代命令
+
+| 命令                                                         | 说明                               |
+| :----------------------------------------------------------- | :--------------------------------- |
+| [llvm-addr2line](https://llvm.liuxfe.com/docs/man/llvm-addr2line.html) | addr2line的替代品                  |
+| [llvm-ar](https://llvm.liuxfe.com/docs/man/llvm-ar.html)     | LLVM归档器                         |
+| [llvm-cxxfilt](https://llvm.liuxfe.com/docs/man/llvm-cxxfilt.html) | LLVM符合名称分析器                 |
+| [llvm-nm](https://llvm.liuxfe.com/docs/man/llvm-nm.html)     | 列出LLVM字节码和目标文件中的符号表 |
+| [llvm-objcopy](https://llvm.liuxfe.com/docs/man/llvm-objcopy.html) | 目标文件复制和编辑工具             |
+| [llvm-objdump](https://llvm.liuxfe.com/docs/man/llvm-objdump.html) | LLVM目标文件转储器                 |
+| [llvm-ranlib](https://llvm.liuxfe.com/docs/man/llvm-ranlib.html) | 库存档索引生成工具                 |
+| [llvm-readelf](https://llvm.liuxfe.com/docs/man/llvm-readelf.html) | GNU风格的LLVM对象读取器            |
+| [llvm-size](https://llvm.liuxfe.com/docs/man/llvm-size.html) | 打印目标文件尺寸信息               |
+| [llvm-strings](https://llvm.liuxfe.com/docs/man/llvm-strings.html) | 打印目标文件中的字符串             |
+| [llvm-strip](https://llvm.liuxfe.com/docs/man/llvm-strip.html) | 目标文件去除调试信息工具           |
+
+#### 调试工具
+
+| 命令                                                         | 说明                 |
+| :----------------------------------------------------------- | :------------------- |
+| [bugpoint](https://llvm.liuxfe.com/docs/man/bugpoint.html)   | 自动测试用例缩减工具 |
+| [llvm-extract](https://llvm.liuxfe.com/docs/man/llvm-extract.html) | 从LLVM模块中提取函数 |
+| [llvm-bcanalyzer](https://llvm.liuxfe.com/docs/man/llvm-bcanalyzer.html) | LLVM字节码分析器     |
+
+#### 开发工具
+
+| 命令                                                         | 说明                        |
+| :----------------------------------------------------------- | :-------------------------- |
+| [FileCheck](https://llvm.liuxfe.com/docs/man/filechcke.html) | 灵活的模式匹配文件验证程序  |
+| [tblgen](https://llvm.liuxfe.com/docs/man/tblgen.html)       | 目标描述到C++代码生成器     |
+| [lit](https://llvm.liuxfe.com/docs/man/lit.html)             | LLVM集成测试仪              |
+| [llvm-build](https://llvm.liuxfe.com/docs/man/llvm-build.html) | LLVM项目构建实用程序        |
+| [llvm-exegesis](https://llvm.liuxfe.com/docs/man/llvm-exegesis.html) | LLVM机器指令基准            |
+| [llvm-pdbutil](https://llvm.liuxfe.com/docs/man/llvm-pdbutil.html) | PDB文件取证和诊断           |
+| [llvm-locstats](https://llvm.liuxfe.com/docs/man/llvm-locstats.html) | 计算DWARF调试位置的统计信息 |
+
+
+
 ### 开源项目 
 
 ### 文章
