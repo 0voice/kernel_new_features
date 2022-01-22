@@ -1,5 +1,14 @@
 # 🔰 深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm, kvm, ceph, fuse 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 
+所有数据来源于互联网。所谓取之于互联网，用之于互联网。
+
+如果涉及版权侵犯，请邮件至 wchao_isvip@163.com ，我们将第一时间处理。
+
+如果您对我们的项目表示赞同与支持，欢迎您 lssues我们，或者邮件 wchao_isvip@163.com 我们，更加欢迎您 pull requests 加入我们。
+
+感谢您的支持！
+
+
 ## 🔥 [io_uring](https://en.wikipedia.org/wiki/Io_uring) 
 
 <div  align=center>
@@ -464,3 +473,12 @@
 ### 文章
 
 ### 视频(提取码：1024)
+
+
+## 联系专栏
+
+#### [Linux内核源码/内存调优/文件系统/进程管理/设备驱动/网络协议栈](https://ke.qq.com/course/4032547?flowToken=1041395)
+
+#### 关注微信公众号【后台服务架构师】——【联系我们】，免费获取更多FFmepg学习资料！
+
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
