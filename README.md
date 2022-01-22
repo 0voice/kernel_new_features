@@ -262,6 +262,7 @@
   - [Introduction to the LLVM Compiler System](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E6%A1%A3/Introduction%20to%20the%20LLVM%20Compiler%20System.pdf)
   - [LLVM语言参考手册](https://web.archive.org/web/20120611064155/http://llvm.org/docs/LangRef.html)
   - [LLVM语言参考手册-中文版](https://llvm.liuxfe.com/docs/langref/)
+  - [入门LLVM核心库](https://getting-started-with-llvm-core-libraries-zh-cn.readthedocs.io/zh_CN/latest/)
 - 用户指南：
   - [使用CMake构建LLVM](https://llvm.org/docs/CMake.html): 使用CMake构建系统的主要入门指南的附录。
   - [在ARM平台上构建LLVM指南](https://llvm.org/docs/HowToBuildOnARM.html): 关于在ARM上构建和测试LLVM/Clang的注意事项。
