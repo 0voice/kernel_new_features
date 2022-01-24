@@ -412,6 +412,22 @@
 
 ### 开源项目 
 
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten): Emscripten:一个llvm到webassembly的编译器
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo): 微控制器、WebAssembly (WASM/WASI)和命令行工具。基于LLVM。
+- [numba/numba](https://github.com/numba/numba): 使用LLVM支持NumPy动态Python编译器
+- [avast/retdec](https://github.com/avast/retdec): RetDec是一个基于LLVM的可重定向机器码反编译器。
+- [lifting-bits/mcsema](https://github.com/lifting-bits/mcsema): 将x86、amd64、aarch64、sparc32和sparc64程序二进制代码提升到LLVM位码的框架
+- [microsoft/DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler): 这个repo托管了DirectX Shader编译器的源代码，它是基于LLVM/Clang的。
+- [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights): c++洞察力——用编译器的眼光看你的源代码
+- [google/souper](https://github.com/google/souper): LLVM IR的超优化器
+- [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari): LLVM模糊处理
+- [dotnet/llilc](https://github.com/dotnet/llilc):这个repo包含LLILC，一个基于LLVM的。net Core编译器。它包括一组跨平台的。net代码生成工具，可以将MSIL字节码编译成LLVM支持的平台。
+- [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor): 用于教学和学习的树外LLVM通行证的集合
+- [numba/llvmlite](https://github.com/numba/llvmlite): 用于编写JIT编译器的轻量级LLVM python绑定
+- [yrnkrn/zapcc](https://github.com/yrnkrn/zapcc): zapcc是一个基于clang的缓存c++编译器，旨在执行更快的编译
+- [go-llvm/llgo](https://github.com/go-llvm/llgo): 基于llvm的编译器
+- [eliben/llvm-clang-samples](https://github.com/eliben/llvm-clang-samples): unmaintenance:使用LLVM和Clang编译库和工具的例子
+
 ### 文章
 
 ### 视频(提取码：1024)
