@@ -430,6 +430,14 @@
 
 ### 文章
 
+- [LLVM 入门篇](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%20%E5%85%A5%E9%97%A8%E7%AF%87.md)
+- [LLVM :Clang入门](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%20:Clang%E5%85%A5%E9%97%A8.md)
+- [LLVM编译器框架介绍](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%E7%BC%96%E8%AF%91%E5%99%A8%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D.md)
+- [Llvm编译的基本概念和流程](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/llvm%E7%BC%96%E8%AF%91%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%B5%81%E7%A8%8B.md)
+- [后端技术的重用：LLVM不仅仅让你高效](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E7%9A%84%E9%87%8D%E7%94%A8%EF%BC%9ALLVM%E4%B8%8D%E4%BB%85%E4%BB%85%E8%AE%A9%E4%BD%A0%E9%AB%98%E6%95%88.md)
+- [编译优化｜LLVM代码生成技术详解及在数据库中的应用](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96%EF%BD%9CLLVM%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3%E5%8F%8A%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
+- [编译器及底层名词解释](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E7%BC%96%E8%AF%91%E5%99%A8%E5%8F%8A%E5%BA%95%E5%B1%82%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
+
 ### 视频(提取码：1024)
 
 
