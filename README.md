@@ -1,4 +1,4 @@
-# 🔰 深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm, kvm, ceph, fuse 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
+# 🔰 深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 
 所有数据来源于互联网。所谓取之于互联网，用之于互联网。
 
