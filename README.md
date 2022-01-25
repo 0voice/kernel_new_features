@@ -441,7 +441,7 @@
 - [编译优化｜LLVM代码生成技术详解及在数据库中的应用](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96%EF%BD%9CLLVM%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3%E5%8F%8A%E5%9C%A8%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)
 - [编译器及底层名词解释](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E7%BC%96%E8%AF%91%E5%99%A8%E5%8F%8A%E5%BA%95%E5%B1%82%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
 
-### 视频(提取码：1024)
+### 视频
 - [How LLVM & Clang work](https://pan.baidu.com/s/1yTDS9Bn5CiFGhotKjNfcIw)---提取码: 225f
 - [2021 LLVM Dev Mtg “Otter- Tracing & Visualizing OpenMP Programs as DAGs Through LLVM's OMPT...”](https://pan.baidu.com/s/1lbO_764_sXgMf5mgwajdcw)---提取码: d2k2
 - [2021 LLVM Dev Mtg “Navigating Exotic SIMD Lands with an LLVM Guide”](https://pan.baidu.com/s/1SAbepiyv0X6W7Qxf6qVxuA)---提取码: 5v6s
