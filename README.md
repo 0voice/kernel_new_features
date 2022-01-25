@@ -256,6 +256,9 @@
 
 ### 视频(提取码：1024)
 
+- [Netflix talks about Extended BPF - A new software type](https://pan.baidu.com/s/1VD-dsBheyJmDUhiIUJiQOw)---提取码: 83sv
+- [containers_ebpf_kernel](https://pan.baidu.com/s/1NFzeWCJHmsXnzmDTHnt9vg)---提取码: hxkt
+
 ## 🔥 [llvm](https://llvm.org/)
 
 <div  align=center>
