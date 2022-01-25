@@ -167,18 +167,18 @@
 - [用 cgroups 管理进程磁盘 io](https://github.com/0voice/kernel_new_features/blob/main/cgroups/%E6%96%87%E7%AB%A0/cgroups%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%A3%81%E7%9B%98%20io.md)
 
 
-### 视频(提取码：1024)
+### 视频
 
-- [Containers_ cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods]()
-- [Understanding and Working with the Cgroups Interface - Michael Anderson, The PTR Group, LLC]()
-- [Linux Container Primitives- cgroups, namespaces, and more!]()
-- [Cgroups, namespaces, and beyond]()
-- [Kubernetes On Cgroup v2 - Giuseppe Scrivano, Red Hat]()
-- [Cgroup Slab Memory Controller and Time Namespace - DevConf.CZ 2021]()
-- [Modern Linux Servers with cgroups - Brandon Philips, CoreOS]()
-- [LISA21 - 5 Years of Cgroup v2- The Future of Linux Resource Control]()
-- [Limit CPU usage on Ubuntu with Systemd cgroups]()
-- [What's new in control groups (cgroups) version 2]()
+- [Containers_ cgroups, Linux kernel namespaces, ufs, Docker, and intro to Kubernetes pods](https://pan.baidu.com/s/1dfmOxOESpgT9rj4VH1BmRA)---提取码: k4hn
+- [Understanding and Working with the Cgroups Interface - Michael Anderson, The PTR Group, LLC](https://pan.baidu.com/s/1wD5MRvHheJv1P8i1iQmosQ)---提取码: 54vs
+- [Linux Container Primitives- cgroups, namespaces, and more!](https://pan.baidu.com/s/1LZ9Ff1EuTArxcv6e0c8-2A)---提取码: cjwd
+- [Cgroups, namespaces, and beyond](https://pan.baidu.com/s/1IjOURq5X6TEwZn6G5LUhog)---提取码: at6x 
+- [Kubernetes On Cgroup v2 - Giuseppe Scrivano, Red Hat](https://pan.baidu.com/s/1apHDcsiCpiZITd_TwfezCg)---提取码: 552y
+- [Cgroup Slab Memory Controller and Time Namespace - DevConf.CZ 2021](https://pan.baidu.com/s/1qhVtHJtQjM-7mJVQVDMPwg)---提取码: gayh
+- [Modern Linux Servers with cgroups - Brandon Philips, CoreOS](https://pan.baidu.com/s/1okbzLkfA7d0uKJRyj3iyDg)---提取码: afm1
+- [LISA21 - 5 Years of Cgroup v2- The Future of Linux Resource Control](https://pan.baidu.com/s/1AGo7vUC0F0uKO5gCd4wVxg)---提取码: ygrv
+- [Limit CPU usage on Ubuntu with Systemd cgroups](https://pan.baidu.com/s/17gB4Lv4LyznfMwTxd9Ae_Q)---提取码: ktva
+- [What's new in control groups (cgroups) version 2](https://pan.baidu.com/s/1r3V4Htltuy58OUmXGC5aXQ)---提取码: w2tz
 
 ## 🔥 [ebpf](https://ebpf.io/)
 
