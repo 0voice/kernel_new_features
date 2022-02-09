@@ -49,4 +49,3 @@ While being acquainted with the low-level `io_uring` API is most certainly a goo
 While there is a reference section here for it, there are some examples based on `liburing` we’ll see in the subsequent chapters.
 
 > 原文链接：https://unixism.net/loti/what_is_io_uring.html
-

@@ -70,9 +70,9 @@
 - [io_uring（2）- 从创建必要的文件描述符 fd 开始](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/io_uring%EF%BC%882%EF%BC%89-%20%E4%BB%8E%E5%88%9B%E5%BB%BA%E5%BF%85%E8%A6%81%E7%9A%84%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6%20fd%20%E5%BC%80%E5%A7%8B.md)
 - [下一代异步 IO io_uring 技术解密](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%BC%82%E6%AD%A5%20IO%20io_uring%20%E6%8A%80%E6%9C%AF%E8%A7%A3%E5%AF%86.md)
 - [小谈io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/%E5%B0%8F%E8%B0%88io_uring.md)
-- [智汇华云 | 新时代IO利器-io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/%E6%99%BA%E6%B1%87%E5%8D%8E%E4%BA%91%20%7C%20%E6%96%B0%E6%97%B6%E4%BB%A3IO%E5%88%A9%E5%99%A8-io_uring.md)
+- [智汇华云-新时代IO利器-io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/%E6%99%BA%E6%B1%87%E5%8D%8E%E4%BA%91-%E6%96%B0%E6%97%B6%E4%BB%A3IO%E5%88%A9%E5%99%A8-io_uring.md)
 - [Linux 5.1 的 io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/Linux%205.1%20%E7%9A%84%20io_uring.md)
-- [What is io_uring?](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/What%20is%20io_uring%3F)
+- [What is io_uring](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/What%20is%20io_uring)
 - [io_uring_setup](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/io_uring_setup.md)
 - [io_uring_enter](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/io_uring_enter.md)
 - [io_uring_register](https://github.com/0voice/kernel_new_features/blob/main/io_uring/%E6%96%87%E7%AB%A0/io_uring_register.md)
@@ -434,7 +434,7 @@
 ### 文章
 
 - [LLVM 入门篇](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%20%E5%85%A5%E9%97%A8%E7%AF%87.md)
-- [LLVM :Clang入门](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%20:Clang%E5%85%A5%E9%97%A8.md)
+- [LLVM-Clang入门](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM-Clang%E5%85%A5%E9%97%A8.md)
 - [LLVM编译器框架介绍](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/LLVM%E7%BC%96%E8%AF%91%E5%99%A8%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D.md)
 - [Llvm编译的基本概念和流程](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/llvm%E7%BC%96%E8%AF%91%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%92%8C%E6%B5%81%E7%A8%8B.md)
 - [后端技术的重用：LLVM不仅仅让你高效](https://github.com/0voice/kernel_new_features/blob/main/llvm/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF%E6%8A%80%E6%9C%AF%E7%9A%84%E9%87%8D%E7%94%A8%EF%BC%9ALLVM%E4%B8%8D%E4%BB%85%E4%BB%85%E8%AE%A9%E4%BD%A0%E9%AB%98%E6%95%88.md)

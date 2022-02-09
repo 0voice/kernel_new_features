@@ -340,4 +340,3 @@ https://static.sched.com/hosted_files/kvmforum2020/9c/KVMForum_2020_io_uring_pas
 4、国内阿里在io_uring走的比较靠前，阿里有个专门的内核组在做相关的开发。OpenAnolis已经将io_uring纳入，并且在io_uring方面做了很多探索。通过社区的一些文章可以看到，阿里在数据库、web、echo_sever等相关的领域都已经应用了io_uring。
 
 > 原文链接：https://www.huayun.com/news/1521.html
-
