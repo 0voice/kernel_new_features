@@ -59,6 +59,7 @@
 - [anolis-os-archive/perf-test-for-io_uring](https://github.com/anolis-os-archive/perf-test-for-io_uring): 一个用于io_uring性能测试的框架。
 - [BlazeWasHere/Cnidus](https://github.com/BlazeWasHere/Cnidus): 基于io_uring的C语言web框架。
 - [AnSpake/osiris](https://github.com/AnSpake/osiris): 一个简单的服务器/客户端，使用io_uring
+- [PanamaUring](https://github.com/dreamlike-ocean/PanamaUring): 基于Java新FFI接口的io_uring绑定且实现了几乎全部的async版本的IO原语（无JNI）
 
 ### 文章
 
