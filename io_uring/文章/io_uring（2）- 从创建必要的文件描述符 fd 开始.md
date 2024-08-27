@@ -20,7 +20,7 @@ SYSCALL_DEFINE2(io_uring_setup, u32, entries,
 }
 ```
 
-这是标准的系统调用实现方案，从实现上来看，这是一个需要传递两个参数的系统调用[2](https://www.byteisland.com/io_uring（2）-从创建必要的文件描述符-fd-开始/#fn-768-2)，一个是 entries，用来表示提交的整个缓存区数组的大小[3](https://www.byteisland.com/io_uring（2）-从创建必要的文件描述符-fd-开始/#fn-768-3)，而 params 这个参数有一部分是核外传递给核外的，比如 params->flags，这个成员变量是用来设置当前整个 io_uring 的标志的，他将决定是否启动 sq_thread，是否采用 iopoll 模式等等，这些都是在创建阶段就决定了；还有一部分是用来自内核传递数据到核外的，比如 sq_ring->ring_mask 等。
+这是标准的系统调用实现方案，从实现上来看，这是一个需要传递两个参数的系统调用[2](https://www.byteisland.com/io_uring（2）-从创建必要的文件描述符-fd-开始/#fn-768-2)，一个是 entries，用来表示提交的整个缓存区数组的大小[3](https://www.byteisland.com/io_uring（2）-从创建必要的文件描述符-fd-开始/#fn-768-3)，而 params 这个参数有一部分是核外传递给核内的，比如 params->flags，这个成员变量是用来设置当前整个 io_uring 的标志的，他将决定是否启动 sq_thread，是否采用 iopoll 模式等等，这些都是在创建阶段就决定了；还有一部分是用来自内核传递数据到核外的，比如 sq_ring->ring_mask 等。
 
 ### 交互需要使用的缓存区
 
